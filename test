@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Club Atlas Basket</title>
+    <meta name="le club Atlas est le club le plus connue au maroc plutot au monde" content="Page du Club Atlas Basket">
+</head>
+
+<body>
+
+    <header>
+        <h1>Club Atlas Basket</h1>
+
+        <nav>
+            <a href="#">Accueil</a>
+            <a href="#">Horaires</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+</body>
+</html>
